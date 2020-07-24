@@ -33,6 +33,7 @@ if SERVER then
 	end
 	ttt_wowozela.Samples = {}
 	local workshopSounds = {
+		["aaaa.wav"] = true,
 		["bass.wav"] = true,
 		["bass3.wav"] = true,
 		["bassguitar2.wav"] = true,
@@ -46,6 +47,7 @@ if SERVER then
 		["fmbass.wav"] = true,
 		["fuzz.wav"] = true,
 		["guitar.wav"] = true,
+		["gnome.wav"] = true,
 		["gwa.wav"] = true,
 		["hit.wav"] = true,
 		["honkytonk.wav"] = true,
